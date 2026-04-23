@@ -1,0 +1,8 @@
+{
+  "actorSpecification": 1,
+  "name": "ai-agents-for-lead-generation",
+  "title": "AI Lead Generation Agent Finder & Comparator",
+  "description": "Scrape G2, Capterra & Product Hunt for AI lead generation agents. Returns structured data: pricing, ratings, integrations. Perfect for sales tech stack research.",
+  "version": "0.1",
+  "meta": { "templateId": "ts-cheerio" }
+}
